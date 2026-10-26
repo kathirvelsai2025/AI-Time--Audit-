@@ -1,0 +1,7 @@
+task,manual_minutes,ai_assisted_minutes,minutes_saved,time_saved_percent,manual_quality_1_to_5,ai_quality_1_to_5,quality_difference_ai_minus_manual,quality_rubric,data_status
+Summarising lecture notes,25,8,17,68.0,4,4,0,Summary completeness and factual accuracy,ILLUSTRATIVE DEMO DATA — replace with measured observations
+Drafting a formal email,20,7,13,65.0,4,4,0,"Clarity, tone, and completeness",ILLUSTRATIVE DEMO DATA — replace with measured observations
+Planning a weekly schedule,18,6,12,66.7,3,4,1,Feasibility and coverage of priorities,ILLUSTRATIVE DEMO DATA — replace with measured observations
+Comparing research sources,40,18,22,55.0,4,3,-1,Evidence quality and source verification,ILLUSTRATIVE DEMO DATA — replace with measured observations
+Creating spreadsheet formulas,30,12,18,60.0,4,4,0,Formula correctness on test cases,ILLUSTRATIVE DEMO DATA — replace with measured observations
+Creating a presentation outline,45,20,25,55.6,4,4,0,"Structure, relevance, and audience fit",ILLUSTRATIVE DEMO DATA — replace with measured observations
